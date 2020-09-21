@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey I'm Prasad Dangare And Here What I'm Working On 👋
 
-<!--
-**PRASAD-DANGARE/PRASAD-DANGARE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on : Im A Student Of BCA 
+- 🌱 I’m currently learning : C, C++, JAVA, PHP, MYSQL, PYTHON
+- 👯 I’m looking to collaborate on : PYTHON
+- 🤔 I’m looking for help with : Not Yet
+- 💬 Ask me about : Anything 
+- 📫 How to reach me : [Instagram Profile](https://instagram.com/prasad_dangare_official) 
+                       [Linkedin Profile](www.linkedin.com/in/prasad-dangare-0903)
+- 😄 Pronouns: : MR
+- ⚡ Fun fact: : Passionate With Coding, Cooking, Cycling, Farming
 -->
