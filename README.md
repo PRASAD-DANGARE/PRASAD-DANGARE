@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Industry Im Lokking For : Information Technology, Computer Software, Computer&Network Security, Telecommunications 
 - Searching For Job Title : Full Stack Devloper-Consultant, Frontend Devloper, Backend Devloper, Android Devloper 
 - I'm Looking For Job Type : Entry Level, Intenship, Full-Time, Contract
-- 📫 How to reach me : [Linkedin Profile](https://www.linkedin.com/in/prasad-dangare-0903/)
+- 📫 How to reach me : [Linkedin Profile](https://www.linkedin.com/in/prasad-dangare-0903/),[Hacker Rank](https://www.hackerrank.com/prasaddagare93)
 - ⚡ Fun fact: : Passionate With Coding, Cooking, Cycling.
 -->
