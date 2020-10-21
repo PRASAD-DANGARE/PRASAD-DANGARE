@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Institute / University : Im A Student Of BCA In BMCC , Savitribai Phule University Pune
-- 🌱 I’m currently learning : C, C++, JAVA, PHP, MYSQL, PYTHON, Data Science
+- 🌱 I’m currently learning : C, C++, JAVA, PHP, JavaScript,  MYSQL, PYTHON, Data Science
 - 👯 I’m looking to collaborate on : PYTHON
 - I’m looking for Job Function : Information Technology, Engineering, Consulting, Manufacturing 
 - 💬 Industry Im Lokking For : Information Technology, Computer Software, Computer&Network Security, Telecommunications 
