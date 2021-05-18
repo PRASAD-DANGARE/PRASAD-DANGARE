@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Institute / University : Im A Student Of BCA In BMCC , Savitribai Phule University Pune.
-- 🌱 I’m currently learning : C, C++, JAVA, PHP, PYTHON, Machine Learning, JavaScript, NodeJS, MYSQL, NOSQL.
+- 🌱 I’m currently learning : C, C++, JAVA, PHP, PYTHON, Python Automation, Machine Learning, JavaScript, NodeJS, MYSQL, NOSQL.
 - 👯 I’m looking to Work on : As Per The Requirement And Interested To Work On Above Languages Which I Learn.
 - I’m looking for Job Function : Information Technology, Software Developer/Engineer, Software Consultant. 
 - 💬 Industry Im Lokking For : Information Technology, Computer Software/Development. 
