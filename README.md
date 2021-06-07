@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Prasad VijayKumar Dangare And Here What I'm Lokking For :</h1>
 <h3 align="center">Hard Work With Passions And Passionate With Programming...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-dangare&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-dangare" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-dangare" alt="prasad-dangare" /></a> </p>
 
 - 📄 Institute / University : **Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
