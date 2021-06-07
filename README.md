@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm Looking For Job Type : **Entry Level, Intenship, Full-Time, Contract.**
 
-- 📫 How To Reach Me : [Email ](prasaddagare93@gmail.com), [LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/)
+- 📫 How To Reach Me : Mail Id : prasaddagare93@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/)
 
 - 📄 Industry Im Lokking For : **Information Technology, Computer Software/Development.**
 
