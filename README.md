@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Industry Im Lokking For : Information Technology, Computer Software/Development. 
 - Searching For Job Title : Full Stack Devloper, Frontend Devloper, Backend Devloper. 
 - I'm Looking For Job Type : Entry Level, Intenship, Full-Time, Contract.
-- 📫 How to reach me : [LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/), Mail Id 📧 prasaddagare93@gmail.com
+- 📫 How to reach me : <!--[LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/),--> Mail Id 📧 prasaddagare93@gmail.com
 - ⚡ Fun fact : Interested In Learning New Things, Reading Books, Love Cooking.
 
 
