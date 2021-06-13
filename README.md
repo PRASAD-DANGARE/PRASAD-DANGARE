@@ -1,4 +1,4 @@
-<!--### Hey I'm Prasad VijayKumar Dangare And Here What I'm Lokking For 👋
+### Hey I'm Prasad VijayKumar Dangare And Here What I'm Lokking For 👋
 
 
 
@@ -11,17 +11,16 @@ Here are some ideas to get you started:
 - 💬 Industry Im Lokking For : Information Technology, Computer Software/Development. 
 - Searching For Job Title : Full Stack Devloper, Frontend Devloper, Backend Devloper. 
 - I'm Looking For Job Type : Entry Level, Intenship, Full-Time, Contract.
-- 📫 How to reach me : [LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/)
+- 📫 How to reach me : [LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/), Mail Id 📧 prasaddagare93@gmail.com
 - ⚡ Fun fact : Interested In Learning New Things, Reading Books, Love Cooking.
 
--->
 
-<h1 align="center">Hi 👋, I'm Prasad VijayKumar Dangare And Here What I'm Lokking For :</h1>
+<!-- <h1 align="center">Hi 👋, I'm Prasad VijayKumar Dangare And Here What I'm Lokking For :</h1>
 <h3 align="center">Hard Work With Passions And Passionate With Programming...</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-dangare" alt="prasad-dangare" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-dangare" alt="prasad-dangare" /></a> </p> -->
 
-<img align = "right" alt = "GIF" src = "second.gif" width="500" height="320" />
+<!-- <img align = "right" alt = "GIF" src = "second.gif" width="500" height="320" />
 
 - 📄 Institute / University : **Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
 
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🌱 Searching For Job Title : **Full Stack Devloper, Backend Devloper.**
 
-- ⚡ Fun Fact : **Interested In Learning New Things, Reading Books, Love Cooking.**
+- ⚡ Fun Fact : **Interested In Learning New Things, Reading Books, Love Cooking.** -->
 
 <h3 align="left">Connect Me Through : </h3>
 <p align="left">
