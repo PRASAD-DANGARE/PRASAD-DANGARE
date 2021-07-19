@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 
 <!---<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-dangare&show_icons=true&locale=en&layout=compact" alt="prasad-dangare" /></p><br> -->
 
-[![Prasad Dangare GitHub stats](https://github-readme-stats.vercel.app/api?username=prasad-dangare&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Prasad Dangare GitHub stats](https://github-readme-stats.vercel.app/api?username=prasad-dangare&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-dangare&theme=merko" alt="prasad-dangare" /></p><br>
+<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-dangare&theme=highcontrast" alt="prasad-dangare" /></p><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-dangare&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-dangare&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---<br><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prasad-dangare&show_icons=true&locale=en" alt="prasad-dangare" /></p><br> -->
