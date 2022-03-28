@@ -1,4 +1,4 @@
-### Hello I'm Prasad VijayKumar Dangare, And Below Is Small Introduction About Me!👋
+### Hello I'm Prasad Dangare, And Below Is Small Introduction About Me!👋
 
 
 - 🔭 Institute / University : Im Student Of BCA In BMCC, Savitribai Phule University Pune.
