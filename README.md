@@ -2,12 +2,12 @@
 
 
 - 🔭 Institute / University : Im A Student Of BCA In BMCC, Savitribai Phule University Pune.
-- 🌱 I’m currently learning : PYTHON, FLASK, AWS, DATA-PREPROCESSING.
-- 👯 I’m looking to Work on : As Per The Requirement And Interested To Work On My Current Tech Stack.
+- 🌱 I’m currently learning : PYTHON, FLASK, DJANGO, AWS, DATA-PREPROCESSING.
+- 👯 I’m looking to Work on : Data Engineering And Interested To Work On My Current Tech Stack.
 - I’m looking for Job Function : Information Technology, Software Developer/Engineer, Data Engineer. 
 - 💬 Industry Im Lokking For : Information Technology, Computer Software/Development. 
-- Searching For Job Title : Backend Devloper. 
-- I'm Looking For Job Type : 1 Year Experience, Full-Time.
+- Searching For Job Title : Backend Devloper + Devops.
+- I'm Looking For Job Type : 1+Year Experience, Full-Time.
 - 📫 How to reach me : <!--[LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/),--> Mail Id 📧 prasaddagare93@gmail.com
 - ⚡ Fun fact : Interested In Learning New Things.
 
