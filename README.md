@@ -1,43 +1,8 @@
-### Hello I'm Prasad Dangare, And Below Is Small Introduction About Me!👋
-
-
-- 🔭 Institute / University : Im A Student Of BCA In BMCC, Savitribai Phule University Pune.
-- 🌱 I’m currently learning : PYTHON, FLASK, DJANGO, AWS, DATA-PREPROCESSING.
-- 👯 I’m looking to Work on : Data Engineering And Interested To Work On My Current Tech Stack.
-- I’m looking for Job Function : Information Technology, Software Developer/Engineer, Data Engineer. 
-- 💬 Industry Im Lokking For : Information Technology, Computer Software/Development. 
-- Searching For Job Title : Backend Devloper + Devops.
-- I'm Looking For Job Type : 1+Year Experience, Full-Time.
-- 📫 How to reach me : <!--[LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/),--> Mail Id 📧 prasaddagare93@gmail.com
-- ⚡ Fun fact : Interested In Learning New Things.
-
-
-<!-- <h1 align="center">Hi 👋, I'm Prasad VijayKumar Dangare And Here What I'm Lokking For :</h1>
-<h3 align="center">Hard Work With Passions And Passionate With Programming...</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-dangare" alt="prasad-dangare" /></a> </p> -->
-
-<!-- <img align = "right" alt = "GIF" src = "second.gif" width="500" height="320" />
-
-- 📄 Institute / University : **Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
-
-- 👨‍💻 I’m Looking For Job Function : **Information Technology, Software Developer/Engineer, Software Consultant.**
-
-- 👨‍💻 I’m Currently Learning : **C, C++, JAVA, PHP, PYTHON, Python Automation, Machine Learning, JavaScript, NodeJS, MYSQL.**
-
-- 🔭 I'm Looking For Job Type : **Entry Level, Intenship, Full-Time, Contract.**
-
-- 📫 How To Reach Me : Mail Id : prasaddagare93@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/prasad-dangare-0903/)
-
-- 📄 Industry Im Lokking For : **Information Technology, Computer Software/Development.**
-
-- 🌱 Searching For Job Title : **Full Stack Devloper, Backend Devloper.**
-
-- ⚡ Fun Fact : **Interested In Learning New Things, Reading Books, Love Cooking.** -->
+### Greetings everyone! 👋 I'm Prasad Dangare, a recent graduate with a Bachelor's Degree in Computer Application from BMCC College 🏫, Savitribai Phule University Pune, having completed my studies in 2022. At 21 years old, I bring over 2 years of experience in software engineering 👨‍💻, with my most recent role as an SDE1 at Futops Technologies. Currently, I am actively seeking new opportunities and open to exploring fresh challenges. Feel free to reach out if you have any opportunities that align with my technical skill set.
 
 <h3 align="left">Connect Me Through : </h3>
 <p align="left">
-<a href="https://linkedin.com/in/prasad-dangare-0903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-dangare-0903" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prasad-dangare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-dangare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prasaddagare93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasaddagare93" height="30" width="40" /></a>
 </p>
 
