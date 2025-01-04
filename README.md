@@ -1,10 +1,8 @@
-### Greetings everyone! 👋 I'm Prasad Dangare, a recent graduate with a Bachelor's Degree in Computer Application from BMCC College 🏫, Savitribai Phule University Pune, having completed my studies in 2022. At 21 years old, I bring over 2 years of experience in software engineering 👨‍💻, with my most recent role as an SDE1 at Futops Technologies. Currently, I am actively seeking new opportunities and open to exploring fresh challenges. Feel free to reach out if you have any opportunities that align with my technical skill set.
+### Hello, my self Prasad Dangare, a Software Development Engineer with 3 years of experience, including 2.5 years of relevant expertise in backend development and cloud technologies. I have strong expertise in Python, Flask, REST APIs along with hands-on experience in tools like Docker, AWS, GCP and NGINX for microservices and cloud-based solutions. Outside of work, I enjoy exploring new technologies and contributing to personal projects to expand my skills.
 
 <h3 align="left">Connect Me Through : </h3>
 <p align="left">
-<a href="https://linkedin.com/in/prasad-dangare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-dangare" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prasaddagare93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasaddagare93" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/prasad-dangare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-dangare" height="30" width="40" /></a>
 
 <h3 align="left">Programming Languages And Other Things Which I Learn  : </h3>
 
