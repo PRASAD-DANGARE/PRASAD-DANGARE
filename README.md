@@ -5,7 +5,7 @@ Backend Software Engineer | Python Developer | FastAPI & Data Engineering
 </h3>
 
 <p align="center">
-Building scalable backend systems, high-throughput APIs, ETL pipelines, and cloud-native applications using Python, FastAPI, Docker, and AWS.
+Building scalable backend systems, high-throughput APIs, ETL pipelines, and cloud-native applications using Python, FastAPI, Docker, AWS.
 </p>
 
 ---
@@ -45,6 +45,7 @@ I enjoy designing scalable backend architectures, optimizing systems for perform
 - ETL Pipelines
 - Data Processing
 - Data Transformation
+- API Integration
 - Pandas
 - High-Volume API Data Extraction
 
@@ -158,10 +159,10 @@ Savitribai Phule Pune University
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://github.com/PRASAD-DANGARE" target="blank">
+<!-- <a href="https://github.com/PRASAD-DANGARE" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
 </a>
-</p>
+</p> -->
 
 ---
 
