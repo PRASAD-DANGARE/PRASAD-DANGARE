@@ -65,7 +65,7 @@ I enjoy designing scalable backend architectures, optimizing systems for perform
 
 ## 💼 Professional Experience
 
-### 🏢 Senior Software Engineer (Data Engineer) — Ascendion
+### 🏢 Senior Software Engineer (Data Engineer) — ZS Associates
 **Jul 2025 – Apr 2026 | Pune**
 
 - Engineered scalable data pipelines for pharmaceutical analytics clients through ZS Associates.
@@ -85,7 +85,7 @@ I enjoy designing scalable backend architectures, optimizing systems for perform
 
 ---
 
-### 🏢 Software Engineer — Productiva IT Solutions
+### 🏢 Software Engineer — EPPS Info
 **Jan 2025 – May 2025 | Pune**
 
 - Built and optimized FastAPI-based REST services.
